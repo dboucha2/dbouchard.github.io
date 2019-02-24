@@ -1,0 +1,9 @@
+name: "Danielle's Personal Website"
+output_dir: "."
+navbar:
+  title: "Danielle's Website, made using RStudio!"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
